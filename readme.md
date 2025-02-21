@@ -37,7 +37,7 @@ MeetSync is an AI-powered meeting assistant that extracts actionable to-dos and 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/meetsync.git
+   git clone https://github.com/Thakurutkarsh07/meetsync.git
    cd meetsync
    ```
 
