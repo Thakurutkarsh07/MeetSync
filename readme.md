@@ -13,17 +13,24 @@ This project is an AI-powered application that extracts actionable tasks and a s
 
 ---  
 
+## Video Demonstration  
+[Video's Google Drive Link](https://drive.google.com/uc?id=1RUfK2I3zquZoUzN04JTCllhi6lVJaAjP)
+
+---
+
 ## Screenshots 🖼️  
 
 ### 🔹 Task Extraction Page  
-![Task Extraction](https://drive.google.com/file/d/1ChIcRtuzFurQfo-yNgzuztgkUrja3qxO/view?usp=drive_link)  
+![Task Extraction](https://drive.google.com/uc?id=1ChIcRtuzFurQfo-yNgzuztgkUrja3qxO)  
 
 ### 🔹 Calendar View  
-![Calendar View](https://drive.google.com/file/d/1enNI-ozbtqNZhyclyyyCtek3jpGmqW8c/view?usp=sharing)  
+![Calendar View](https://drive.google.com/uc?id=1enNI-ozbtqNZhyclyyyCtek3jpGmqW8c)  
 
 ### 🔹 Summary UI  
-![Summary](https://drive.google.com/file/d/15AvoC2kPJHhgQskjgPUk1xpoeOcefHUj/view?usp=sharing)  
+![Summary](https://drive.google.com/uc?id=15AvoC2kPJHhgQskjgPUk1xpoeOcefHUj)  
 
+### 🔹 Todo List UI  
+![Summary](https://drive.google.com/uc?id=1SYQ9Isadps2XZmJrWaleXy0pSBN0Ybf2)
 
 ---  
 
